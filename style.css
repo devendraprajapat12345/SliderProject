@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #e0f7fa;
+}
+
+ #main{ 
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 200px;
+     margin-top: 50px;
+} 
+
+
+#previousButton{
+     height: 70px;
+     width: 200px;
+     background-color: #ff5733;
+     border-radius: 10px;
+     font-size: 25px;
+     color: white;
+     font-weight: bold;
+}
+
+#next{
+     height: 70px;
+     width: 200px;
+     background-color: #ff5733;
+     border-radius: 10px;
+     font-size: 25px;
+     color: white;
+     font-weight: bold;
+}
+
+#images{
+      padding: 10px;
+      border-radius: 10px;
+      border: 3px solid rgb(21, 20, 20);
+}
+img{
+    border-radius: 10px;
+}
+
